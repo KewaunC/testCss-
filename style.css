@@ -1,0 +1,27 @@
+*{
+  box-sizing: border-box;
+font-family: Helvetica, sans-serif;
+}
+
+img{
+  height: 150px;
+}
+
+.description{
+  font-size: 25px;
+}
+
+.cook-time{
+    font-weight: bold;
+}
+
+.ingredients li{
+    list-style: square;
+}
+
+.time{
+    color: grey;
+}
+.citation a{
+ color: seagreen;
+}
